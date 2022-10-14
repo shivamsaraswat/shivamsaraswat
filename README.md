@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://cybersapien.tech/](https://cybersapien.tech/)
 
-- 💬 Ask me about **Python and Cybersecurity.**
+- 💬 Ask me about **Programming and Cybersecurity.**
 
 - 📫 How to reach me **shivamsaraswat04@gmail.com**
 
