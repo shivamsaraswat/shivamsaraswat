@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Application Security.**
 
-- 📝 I regularly write articles on [https://cybersapien.tech/](https://cybersapien.tech/)
+- 📝 I regularly write articles on [blog.shivamsaraswat.com](https://blog.shivamsaraswat.com/)
 
 - 💬 Ask me about **Programming and Cybersecurity.**
 
