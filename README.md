@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **Application Security.**
+- 🌱  I’m focused on building dev-centric security products (using shift-left approach).
 
 - 📝 I regularly write articles on [blog.shivamsaraswat.com](https://blog.shivamsaraswat.com/)
 
