@@ -29,7 +29,7 @@ That's the thread running through everything I've built since — at IKEA, at Te
 
 ---
 
-## The Problem I Keep Solving
+## The Problem I Solve
 
 ```
    DEVELOPERS                    SECURITY TEAM
