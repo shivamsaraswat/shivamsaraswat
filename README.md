@@ -10,14 +10,18 @@
 
 # Hey, I'm Shivam 👋
 
-**Senior Product Security Engineer @PayPal**
+**Senior Product Security Engineer @PayPal** 
+
+I build developer-focused security tooling for software supply chain, container and CI/CD security.
 
 *Security that developers actually want to use — not security they route around.*
 
 [![PayPal](https://img.shields.io/badge/PayPal-Security%20Engineering-003087?style=flat-square&logo=paypal&logoColor=white)](https://paypal.com)
+[![Website](https://img.shields.io/badge/Website-shivamsaraswat.com-black?style=flat-square)](https://shivamsaraswat.com/)
 [![Blog](https://img.shields.io/badge/Blog-blog.shivamsaraswat.com-black?style=flat-square)](https://blog.shivamsaraswat.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivamsaraswat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamsaraswat)
-[![Twitter](https://img.shields.io/badge/X-thecybersapien-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/thecybersapien)
+[![X](https://img.shields.io/badge/X-thecybersapien-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/thecybersapien)
+[![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-shivamsaraswat-009287?style=flat-square&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/shivamsaraswat)
 
 ---
 
@@ -83,12 +87,19 @@ Gitleaks · GHAS            Nuclei · ZAP · Burp        Harness CI/CD
 
 | Project | What it is |
 |---|---|
-| [**SeCoRA**](https://github.com/shivamsaraswat/SeCoRA) | An LLM-driven secure code review agent — OWASP Top 10 / SANS 25 detection, vulnerability chaining, CVSS-scored remediation reports |
-| [**VulnSort**](https://github.com/shivamsaraswat/VulnSort) | A GitHub Action + CLI that reprioritizes scan results by real exploitability (CISA KEV, EPSS) instead of raw CVSS |
-| [**PkgSafe**](https://github.com/shivamsaraswat/PkgSafe) | A quick web tool to check whether an open-source package is carrying malware |
-| [**certify**](https://github.com/shivamsaraswat/certify) | Checks the health of a domain's SSL/TLS certificate posture |
+| [**OMS signing demo**](https://github.com/shivamsaraswat/oms-signing-demo)| A runnable sign, verify and tamper demo for OpenSSF Model Signing. |
+| [**SeCoRA**](https://github.com/shivamsaraswat/SeCoRA) | An AI agent that reviews code for security vulnerabilities and suggests fixes. Tested mainly on Python code. |
+| [**VulnSort**](https://github.com/shivamsaraswat/VulnSort) | A GitHub Action and CLI that ranks Trivy, Grype and SARIF scan findings by CISA KEV membership and EPSS score instead of CVSS. |
+| [**PkgSafe**](https://github.com/shivamsaraswat/PkgSafe) | A web tool that checks a package against OSV.dev malicious-package reports across seven ecosystems. |
 
 Most of these exist because I got tired of asking "does a tool for this already exist?" and just built the version I wanted.
+
+---
+
+## Talks
+ 
+- [Beyond the Model: Securing What Your Agent Actually Depends On](https://speakerdeck.com/shivamsaraswat/beyond-the-model-securing-what-your-agent-actually-depends-on) (AAIF Bengaluru)
+- ["Breaking Bad: Container Security is Broken"](https://speakerdeck.com/shivamsaraswat/breaking-bad-container-security-is-broken-light) (BSides Vizag)
 
 ---
 
@@ -97,6 +108,12 @@ Most of these exist because I got tired of asking "does a tool for this already 
 I write about the gap between "the scanner found it" and "the developer fixed it" — shift-left tooling, supply chain security, and what it actually takes to get 700 teams to care about security without forcing them to.
 
 🔗 [blog.shivamsaraswat.com](https://blog.shivamsaraswat.com/)
+
+- [Could SLSA Have Stopped the Recent npm Supply Chain Attacks?](https://blog.shivamsaraswat.com/slsa-prevents-attacks/) (Jul 2026)
+- [Understanding SLSA: Tracks, Levels, and the Checks at Each Step](https://blog.shivamsaraswat.com/understanding-slsa/) (Jun 2026)
+- [How to Actually Defend Against AI Static Threats](https://blog.shivamsaraswat.com/ai-static-threats-defense/) (Mar 2026)
+- [The AI Threats Nobody Talks About](https://blog.shivamsaraswat.com/ai-static-threats/) (Mar 2026)
+- [The Rising Tide of Software Supply Chain Threats](https://blog.shivamsaraswat.com/software-supply-chain-security/) (Nov 2025)
 
 ---
 
